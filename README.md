@@ -1,2 +1,2 @@
 # prototype
-prototyping for wedding site
+prototyping 
